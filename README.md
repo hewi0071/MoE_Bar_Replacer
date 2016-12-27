@@ -17,7 +17,9 @@ http://i.imgur.com/0WHMP1J.jpg
 
 #Installation:
 
-Extract the zip archive. Copy the game version folder from the extracted files into the res_mods folder of your World of Tanks installed directory. This is usually C:\Games\World_of_Tanks\res_mods, but can literally be anywhere you chose when you installed/copied the game. When the game updates, i.e. I have included both 0.9.17.0 and 0.9.17.0.1. I am on the SEA server, and we didn't get the 0.1 hotfix for 9.17.0. Thus, this is only tested on 0.9.17.0.
+Extract the zip archive. Copy the game version folder from the extracted files into the res_mods folder of your World of Tanks installed directory. This is usually C:\Games\World_of_Tanks\res_mods, but can literally be anywhere you chose when you installed/copied the game. When the game updates, i.e. changes version, move the files into the new version folder.
+
+I have included both 0.9.17.0 and 0.9.17.0.1. I am on the SEA server, and we didn't get the 0.1 hotfix for 9.17.0. Thus, this is only tested on 0.9.17.0.
 
 If any errors occur in your game after installing this modification, please try uninstalling the mod. If the game does not continue to function after uninstalling, please try re-installing the game
 
