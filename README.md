@@ -11,7 +11,13 @@ I have use the standard white bars for the US line, and I have edited them to be
 
 Extract the zip archive. Copy the game version folder from the extracted files into the res_mods folder of your World of Tanks installed directory. This is usually C:\Games\World_of_Tanks\res_mods, but can literally be anywhere you chose when you installed/copied the game. When the game updates, i.e. I have included both 0.9.17.0 and 0.9.17.0.1. I am on the SEA server, and we didn't get the 0.1 hotfix for 9.17.0. Thus, this is only tested on 0.9.17.0.
 
-If any errors occur in your game after installing this modification, please try uninstalling the mod. If the game does not continue to function after uninstalling, please try re-installing the game.
+If any errors occur in your game after installing this modification, please try uninstalling the mod. If the game does not continue to function after uninstalling, please try re-installing the game
+
+Do not attempt to modify this further unless you know what you are doing, or are willing to reinstall the game (if it comes to it).
+
+#Disclaimer
+
+I do not own or claim to own any of the content in this mod. I edited the files provided by Wargaming with Paint.net from http://www.getpaint.net/index.html
 
 I take no responsibility for any errors that occur before or after you install this mod.
 
