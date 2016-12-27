@@ -10,7 +10,9 @@ I have use the standard white bars for the US line, and I have edited them to be
 Screenshots:
 
 http://i.imgur.com/qQN0Weg.jpg
+
 http://i.imgur.com/KRWndKX.jpg
+
 http://i.imgur.com/0WHMP1J.jpg
 
 #Installation:
