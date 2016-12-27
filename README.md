@@ -15,6 +15,10 @@ http://i.imgur.com/KRWndKX.jpg
 
 http://i.imgur.com/0WHMP1J.jpg
 
+And some more from /u/Jambo636:
+
+http://imgur.com/a/X37cx
+
 #Installation:
 
 Extract the zip archive. Copy the game version folder from the extracted files into the res_mods folder of your World of Tanks installed directory. This is usually C:\Games\World_of_Tanks\res_mods, but can literally be anywhere you chose when you installed/copied the game. When the game updates, i.e. changes version, move the files into the new version folder.
