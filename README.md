@@ -29,8 +29,6 @@ Created on 0.9.19.1. Should work on 0.9.19.1.1 (pending testing, but it always w
 
 I have made a .wotmod as well as included the regular res\_mods folder for those who want to fiddle. So just copy the mod type of choice into your server's current version.
 
-I have also included scripts for the T110E5 and 59 Patton which move the MoE to where I feel WG should put them. I will include a how-to on how to change this for your favourite tank too.
-
 If any errors occur in your game after installing this modification, please try uninstalling the mod. If the game does not continue to function after uninstalling, please try re-installing the game
 
 Do not attempt to modify this further unless you know what you are doing, or are willing to reinstall the game (if it comes to it).
