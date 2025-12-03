@@ -1,5 +1,5 @@
 # MoE Bar Replacer
-World of Tanks MoE French/British Bar replacer.
+World of Tanks Marks of Excellence French/British Bar replacer.
 
 # What this mod does:
 
